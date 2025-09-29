@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141677180259",
+    "project_id": "notesapp-a5d73",
+    "storage_bucket": "notesapp-a5d73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141677180259:android:1e217ba9f49493f53a8f56",
+        "android_client_info": {
+          "package_name": "com.example.notely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo9IAeojbM-9tw-XU9QJsCzB-fFSZrECU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141677180259:android:46c79b00158354c23a8f56",
+        "android_client_info": {
+          "package_name": "com.example.notesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo9IAeojbM-9tw-XU9QJsCzB-fFSZrECU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
